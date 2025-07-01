@@ -1,0 +1,10 @@
+D:\Study\.Net\Web Browsers\bin\Debug\Web Browsers.exe.config
+D:\Study\.Net\Web Browsers\bin\Debug\Web Browsers.exe
+D:\Study\.Net\Web Browsers\bin\Debug\Web Browsers.pdb
+D:\Study\.Net\Web Browsers\obj\Debug\Web Browsers.csproj.AssemblyReference.cache
+D:\Study\.Net\Web Browsers\obj\Debug\Web_Browsers.Form1.resources
+D:\Study\.Net\Web Browsers\obj\Debug\Web_Browsers.Properties.Resources.resources
+D:\Study\.Net\Web Browsers\obj\Debug\Web Browsers.csproj.GenerateResource.cache
+D:\Study\.Net\Web Browsers\obj\Debug\Web Browsers.csproj.CoreCompileInputs.cache
+D:\Study\.Net\Web Browsers\obj\Debug\Web Browsers.exe
+D:\Study\.Net\Web Browsers\obj\Debug\Web Browsers.pdb
